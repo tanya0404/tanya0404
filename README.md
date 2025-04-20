@@ -16,7 +16,13 @@
   
   
 # 💫 About Me: 
- Hi,  I'm a passionate full stack developer with expertise in  React, Redux, MongoDB, Express, Node.js, and more.<br> I'm committed to building innovative solutions that positively impact people's lives. <br> As a developer, I believe in the power of collaboration and open-source software. <br> I'm always eager to contribute to exciting projects, learn new technologies, and share my knowledge with others. <br> I'm a strong communicator and a team player who values transparency, empathy, and respect.<br><br>
+ Hi! I'm a passionate Full-Stack Developer specializing in React, Redux, Node.js, Express, and MongoDB. I thrive on building impactful, user-focused web applications that drive innovation and solve real-world problems.
+
+With a strong belief in the power of collaboration and open-source, I actively seek opportunities to contribute to meaningful projects and constantly evolve my tech stack. Whether it's crafting seamless user experiences or architecting robust backends, I'm all about clean code, continuous learning, and creative problem-solving.
+
+I'm also a team player who values transparency, empathy, and mutual respect. I love working with diverse teams, exchanging ideas, and empowering others through knowledge sharing and mentorship.
+
+Let’s build something amazing together!<br><br>
 
 ### 🤝 Connect with me:
 <table>
