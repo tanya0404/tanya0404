@@ -46,20 +46,20 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=suryadwd&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tanya0404&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadwd&theme=jolly&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanya0404&theme=jolly&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadwd&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanya0404&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suryadwd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tanya0404&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
@@ -70,11 +70,11 @@
 ### 📈 Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryadwd&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanya0404&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 
 ### 🐍 Snake-Eating My Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-![snake gif](https://github.com/suryadwd/suryadwd/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/tanya0404/tanya0404/blob/output/github-snake-dark.svg)
