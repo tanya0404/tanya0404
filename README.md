@@ -32,12 +32,12 @@ Let’s build something amazing together!<br><br>
     </td>
     <td>
       <ul>
-        <li>🌐 <strong>Portfolio:</strong> <a href="https://devsurya.space">In Progress</a></li>
-        <li>📧 <strong>Email:</strong> <a href="mailto:surajdwivedi644@gmail.com">tptanya123@gmail.com</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20"> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/surya-suraj-91a2a228a/">Tanya Pate</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"> <strong>Facebook:</strong> <a href="https://www.facebook.com/anuj.dwivedi.12576049">anuj.dwivedi.12576049</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="20"> <strong>Instagram:</strong> <a href="https://www.instagram.com/surya__suraj">surya__suraj</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="20"> <strong>Twitter:</strong> <a href="https://x.com/surya___suraj">surya___suraj</a></li>
+        <li>🌐 <strong>Portfolio:</strong> <a href="">In Progress</a></li>
+        <li>📧 <strong>Email:</strong> <a href="">tptanya123@gmail.com</a></li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20"> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tanya-patel-9a3953298/">Tanya Pate</a></li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"> <strong>Facebook:</strong> <a href="">tanya</a></li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="20"> <strong>Instagram:</strong> <a href="https://www.instagram.com/__.t.a.n_n.u.__/">tanya</a></li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="20"> <strong>Twitter:</strong> <a href="">tanya</a></li>
       </ul>
     </td>
   </tr>
